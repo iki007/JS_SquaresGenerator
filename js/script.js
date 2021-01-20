@@ -2,7 +2,7 @@ var rosu = 0;
 var verde = 0;
 var albastru = 0;
 var gri_deschis = 0;
-var gri_inchis = 640;
+var gri_inchis = 640; // numarul patratelor generate
 
 
 function generateSquares() {
