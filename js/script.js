@@ -13,7 +13,7 @@ function generateSquares() {
     suprafata.className = "suprafata";
     document.body.appendChild(suprafata);
 
-    for (i = 0; i < 640; i++) {
+    for (i = 0; i < gri_inchis; i++) {
         var patrat = document.createElement("DIV");
         x++
         patrat.id = "patrat_" + x.toString();
